@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e4b4628-2948-45be-b3be-6ea3e2f55452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.new-app-file">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="more-intro-pyth" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,6 +50,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new-app-file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="more-intro-pyth" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new-app-file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.new-app-file" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.writing-to-files" />
         <item itemvalue="Python.reading-files" />
@@ -121,29 +144,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1379" height="212" key="GridCell.Tab.0.bottom" timestamp="1584374280736">
+    <state x="0" y="466" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584468677181">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="0" y="466" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1584468677181" />
+    <state width="1379" height="212" key="GridCell.Tab.0.bottom" timestamp="1584469015361">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state width="1379" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1584373656402" />
-    <state width="1379" height="212" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1584374280736" />
-    <state width="1379" height="212" key="GridCell.Tab.0.center" timestamp="1584374280735">
+    <state width="1379" height="212" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1584469015361" />
+    <state width="1379" height="212" key="GridCell.Tab.0.center" timestamp="1584469015360">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state width="1379" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1584373656400" />
-    <state width="1379" height="212" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1584374280735" />
-    <state width="1379" height="212" key="GridCell.Tab.0.left" timestamp="1584374280735">
+    <state width="1379" height="212" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1584469015360" />
+    <state width="1379" height="212" key="GridCell.Tab.0.left" timestamp="1584469015360">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state width="1379" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1584373656398" />
-    <state width="1379" height="212" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1584374280735" />
-    <state width="1379" height="212" key="GridCell.Tab.0.right" timestamp="1584374280735">
+    <state width="1379" height="212" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1584469015360" />
+    <state width="1379" height="212" key="GridCell.Tab.0.right" timestamp="1584469015361">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state width="1379" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1584373656401" />
-    <state width="1379" height="212" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1584374280735" />
-    <state x="419" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1584370029218">
+    <state width="1379" height="212" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1584469015361" />
+    <state x="419" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1584468651003">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="419" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1584370029218" />
+    <state x="419" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1584468651003" />
   </component>
 </project>
